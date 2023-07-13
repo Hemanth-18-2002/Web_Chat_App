@@ -1,5 +1,5 @@
 # Web_Chat_App
-This is a simple web chat application built with **HTML, CSS AND JS**. It allows users to engage in real-time text-based conversations.
+This is a simple web chat application built with **HTML, CSS & JS**. It allows users to engage in real-time text-based conversations.
 
 # **Features**<br>
 Real-time messaging: Users can send and receive messages in real-time without the need for page refresh.<br>
