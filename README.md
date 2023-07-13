@@ -9,4 +9,4 @@ Emoji support: Users can include emojis in their messages to express emotions.<b
 Notifications: Users receive notifications when new messages are received, even if they are in a different chat room or have the app in the background.<br>
 User presence: Users can see who is currently online in each chat room.<br>
 
-<img src="preview.png" align="center" width=500 height=500/>
+<img src="preview.png" />
